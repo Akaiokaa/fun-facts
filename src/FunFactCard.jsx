@@ -1,6 +1,6 @@
 function FunFactCard({ fact }){
     return (
-        <div>
+        <div className="funFactCard">
             <h2>Fun Fact</h2>
             <p>{ fact }</p>
         </div>
