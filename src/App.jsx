@@ -4,7 +4,11 @@ import FunFactCard from './FunFactCard';
 function App() {
   return (
     <div>
-      <FunFactCard fact="No number before 1,000 contains the letter A."/>
+      <FunFactCard fact="Brendan likes baking."/>
+      <FunFactCard fact="Allen likes cars."/>
+      <FunFactCard fact="Brendan likes working out."/>
+      <FunFactCard fact="Allen likes reading."/>
+      <FunFactCard fact="Brendan likes the color navy blue."/>
     </div>
   );
 }
