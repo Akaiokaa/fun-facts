@@ -7,3 +7,10 @@
   padding: 1rem;
   margin: 1rem;
 }
+
+.headerName {
+  border: 2px solid rgba(208, 208, 208, 0.816);
+}
+h1 {
+  margin: 2rem 0px;
+}
